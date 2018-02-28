@@ -1,4 +1,4 @@
-# Snow-Retrievals-2014-2015
+# Snowfalke mass retrievals 2014/2015
 ## Snow microphysical properties retrieved from PIP observations collected in Hyytiala on 2014-2015
 
 The datafile is given in the Matlab format. The data structure contains snow_cm MAT structure with the following content
